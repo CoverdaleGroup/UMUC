@@ -93,7 +93,7 @@ function FAQModalCtrl($scope, $modal) {
                 '<a href="mailto:umuc.store@proforma.com">umuc.store@proforma.com</a></span>',
                 '<h4>Shipping Address for returning Defective and/or Damaged Merchandise</h4>',
                 '<address>',
-                'Proforma Fulfillment Center<br />',
+                'Proforma Fulfillment CenterAN EVEN MORE RECENT CHANGE<br />',
                 'Attn: UMUC Gear<br />',
                 '4597 Van Epps Road<br />',
                 'Brooklyn Heights, OH 44131<br />',
