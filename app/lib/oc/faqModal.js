@@ -85,7 +85,7 @@ function FAQModalCtrl($scope, $modal) {
                 '<h4>Defective and/or Damaged Merchandise</h4>',
                 '<p>We will be happy to exchange, credit, or refund your merchandise if your item was received damaged or ' +
                 'defective. Items must be returned to UMUC Online Store/ Proforma Warehouse, with original packaging and accompanied by a copy of your ' +
-                'invoice/packing slip. All transactions will be handled promptly. We cannot credit or refund the freight cost of any returned items, unless' +
+                'invoice/packing slip. All transactions will be handled promptly. We cannot credit or refund the freight cost of any returned items, unless ' +
                 'the merchandise is considered defective or damaged during shipping. Please contact Proforma so that we can process your return.</p>',
                 '<p>If a replacement is authorized, it will be shipped to you at no charge. Please call Proforma to request a return shipping authorization number, ' +
                 'and a UPS shipping label will be sent to you to facilitate your return.</p>',
