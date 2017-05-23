@@ -37,7 +37,10 @@ function featureditemspants() {
             '</li>',
             '</ul>',
             '</div>',
-            '<div class="panel-footer text-right">',
+            '<div class="panel-footer text-left">',
+            '<a href="#">Additional colors available</a>'
+            '</div>',
+            '<div class="panel-footer text-right" style="background-color: red;">',
             '<a href="catalog/umuc-pants">View More <i class="fa fa-chevron-right"></i></a>',
             '</div>',
             '</div>'

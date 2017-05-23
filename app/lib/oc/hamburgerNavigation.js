@@ -41,6 +41,7 @@ function hamburgernavigation() {
             '</style>',
             '<header class="header navbar navbar-inner hidden-sm hidden-md hidden-lg">',
             '<nav class="navbar navbar-default navbar-hamburger" role="navigation">',
+            '<div class="pull-right" style="color: #fff; font-weight: bold; padding: 10px;">FREE SHIPPING EVERY DAY *</div>',
             '<div>',
             '<a class="main-toggle" ng-click="isCollapsed = !isCollapsed" ng-class="{\'active\': !isCollapsed, \'\': isCollapsed}">',
             '<i class="fa fa-th-list" ng-show="isCollapsed"></i>',
