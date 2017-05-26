@@ -54,7 +54,8 @@
             <homemessage />
         </section>
 
-        <section class="hidden-print hidden-xs hidden-sm">
+        <!--<section class="hidden-print hidden-xs hidden-sm">-->
+        <section class="hidden-print hidden-xs">
             <navigation />
         </section>
 
@@ -67,7 +68,7 @@
         </section>
 
         <section class="hidden-print">
-            <copyright ng-if="!user.Permissions.contains('UnBrandedSite')" />
+            <copyright ng-if="!user.Permissions.contains('UnBrandedSite')" /> 
         </section>
 
         <section class="hidden-print">
